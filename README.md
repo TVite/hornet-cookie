@@ -1,0 +1,1 @@
+Information about the project is written here.
